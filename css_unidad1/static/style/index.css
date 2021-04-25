@@ -1,0 +1,44 @@
+.menu{
+   
+    overflow: hidden;
+    background-color: rgb(184, 183, 183);
+    
+}
+
+
+a{
+    /* Color de letra */
+    color: rgb(98, 3, 167);
+
+    /* Posición de las letras a la derecha */
+    float: right; 
+
+    /* Separación entre las palabras del menu */
+    padding: 3px;     
+}
+
+li{
+    /* El texto del menu en linea */
+    display: inline;
+
+    /* Esta me modificó la altura del texto del menu hacia abajo del menu */
+    padding: 10px;
+
+}
+
+.pie{
+
+    background-color: rgb(184, 183, 183);
+}
+
+hr{
+    background-color: rgb(184, 183, 183);
+}
+
+main{
+
+    height:380px;
+    width:800px;
+    text-align:justify;
+    
+}
