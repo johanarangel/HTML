@@ -1,0 +1,31 @@
+
+.box{
+  
+    width: 300px;
+    height: 285px;
+    background:red;
+    font-size: 16pt; 
+    color: yellow;
+    float:left;
+    margin: 0.3em;
+}
+
+.box-1{
+  
+    width: 300px;
+    height: 285px;
+    background:black;
+    font-size: 16pt; 
+    color: white;
+    /* Este último permite que las divisiones esten en la misma linea */
+    float:left; 
+    /* El margin le da separación entre cajas */
+    margin: 0.3em;
+
+}
+
+h1{
+    /* El margin no le da sangria al párrafo lo mantiene pegado y el padding al ser 0 no le da separación */
+    margin: 0mm;
+    padding:0mm;
+}
